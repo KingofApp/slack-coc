@@ -1,6 +1,10 @@
 *This policy is a "living" document, and subject to refinement and expansion in the future.*
 
-The **Cordova Dev Slack** should be a safe place for everybody regardless of
+This is the Code of Conduct for [**Cordova Slack**](https://cordova.slack.com)
+
+In addition of the [Apache Foundation Code of Conduct](http://www.apache.org/foundation/policies/conduct.html) the following also applies to the Slack community
+
+The **Cordova Slack** should be a safe place for everybody regardless of
 
 - gender, gender identity or gender expression 
 - sexual orientation
@@ -48,6 +52,6 @@ Failing to follow the community guidelines as described in this document carries
 
 * Steve Gill - @stevegill
 * Carlos Santana - @csantana
-* 
+* Tommy-Carlos Williams - @devgeeks
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
