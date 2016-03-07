@@ -1,6 +1,6 @@
 *This policy is a "living" document, and subject to refinement and expansion in the future.*
 
-This is the Code of Conduct for [**Cordova Slack**](https://cordova.slack.com)
+This is the Code of Conduct for [**KingOfApp Slack**](https://koapp.slack.com)
 
 In addition of the [Apache Foundation Code of Conduct](http://www.apache.org/foundation/policies/conduct.html) the following also applies to the Slack community
 
@@ -50,9 +50,9 @@ Failing to follow the community guidelines as described in this document carries
 
 **If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current moderators and their Slack IDs:**
 
-* Steve Gill - @stevesgill
-* Carlos Santana - @csantana
-* Tommy-Carlos Williams - @devgeeks
-* Simon MacDonald - @macdonst
+* Abdon Rodríguez - @abdon
+* Fernando Lafuente - @fernando
+* Jorge Martín - @pepocivs 
+* José Vicente Sogorb - @jovi
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
