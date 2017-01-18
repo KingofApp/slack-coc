@@ -13,6 +13,7 @@ The **Cordova Slack** should be a safe place for everybody regardless of
 - race
 - age
 - religion
+- gang
 
 As someone who is part of this Slack, you agree that:
 
